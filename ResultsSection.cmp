@@ -1,0 +1,25 @@
+<aura:component implements="force:appHostable,
+flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,
+force:hasRecordId,forceCommunity:availableForAllPageTypes,
+force:lightningQuickAction" access="global" >
+  <div>
+    <h2 class="slds-text-heading--medium slds-p-vertical--medium">
+      Accounts
+    </h2>
+    <div class="slds-grid">
+      <!-- REPLACE THIS WITH THE CODE FOR ACCOUNT CARDS -->
+    </div>
+    <h2 class="slds-text-heading--medium slds-p-vertical--medium">
+      Contacts
+    </h2>
+    <div class="slds-grid">
+      <!-- FOR CHALLENGE: REPLACE THIS WITH THE CODE FOR CONTACT CARDS -->
+    </div>
+    <h2 class="slds-text-heading--medium slds-p-vertical--medium">
+      Leads
+    </h2>
+    <div class="slds-grid">
+      <!-- FOR CHALLENGE: REPLACE THIS WITH THE CODE FOR LEAD CARDS -->
+    </div>
+  </div>
+</aura:component>
